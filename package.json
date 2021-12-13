@@ -1,0 +1,19 @@
+{
+  "name": "original",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "server": "json-server --watch db.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@cucumber/cucumber": "^8.0.0-rc.1",
+    "axios": "^0.24.0",
+    "cypress": "^9.1.1",
+    "json-server": "^0.17.0",
+    "lodash": "^4.17.21"
+  },
+  "description": ""
+}
